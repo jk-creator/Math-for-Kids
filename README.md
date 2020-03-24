@@ -69,5 +69,3 @@ close = Button(root, text="Close", command=close)
 close.grid(row=1, column=1)
 root.mainloop()
 # The name mazpartial originates from the use of the partial function from functools package.
-# The original project was named Mazematic.
-# Credits JKCUP
